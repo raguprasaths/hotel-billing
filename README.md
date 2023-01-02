@@ -1,2 +1,2 @@
 # hotel-billing
- Basics hotel billing programming examples to learn python for Beginners
+ Basic hotel billing programming examples to learn python for Beginners
